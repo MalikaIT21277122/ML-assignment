@@ -23,10 +23,10 @@ Each group member implemented a separate supervised learning model:
 
 | Member                 | Model                   |
 |------------------------|-------------------------|
-| Rovinya Wijerama       | Logistic Regression     |
-| Bimsara Weerakoon      | Decision Tree Classifier|
 | Malika Degaldoruwa     | Random Forest Classifier|
+| Bimsara Weerakoon      | Decision Tree Classifier|
 | Janith Withanagamage   | K-Nearest Neighbors     |
+| Rovinya Wijerama       | Logistic Regression     |
 
 ---
 
@@ -65,7 +65,7 @@ This project is for educational purposes under [SLIIT's Machine Learning course 
 
 ## 👥 Contributors
 
-- Rovinya Wijerama  
+- Malika Degaldoruwa
 - Bimsara Weerakoon  
-- Malika Degaldoruwa  
 - Janith Withanagamage
+- Rovinya Wijerama
