@@ -48,3 +48,24 @@ KNN was selected as the best-performing model due to its high accuracy and discr
 - **Frontend**: React.js interface to input health details and show predictions
 - **Deployment**: Flask + React (local)
 - **Model Persistence**: joblib
+
+---
+
+## 🎥 Demo Video
+
+- [Watch the Assignment Demo Video Here](https://www.youtube.com/watch?v=QvCnX3q6_IY&feature=youtu.be)
+
+---
+
+## 📄 License
+
+This project is for educational purposes under [SLIIT's Machine Learning course (IT4060)].
+
+---
+
+## 👥 Contributors
+
+- Rovinya Wijerama  
+- Bimsara Weerakoon  
+- Malika Degaldoruwa  
+- Janith Withanagamage
